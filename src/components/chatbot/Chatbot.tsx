@@ -76,9 +76,10 @@ export function Chatbot() {
 
       const data = await response.json()
 
+      // n8n returnerer "reply" i stedet for "response" eller "message"
       const botMessage: Message = {
         id: (Date.now() + 1).toString(),
-        text: data.response || data.message || 'Beklager, jeg forstod ikke det. Kan du prøve igjen?',
+        text: data.reply || data.response || data.message || 'Beklager, jeg forstod ikke det. Kan du prøve igjen?',
         sender: 'bot',
         timestamp: new Date(),
       }
