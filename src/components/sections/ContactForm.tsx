@@ -120,7 +120,7 @@ export function ContactForm() {
             name="name"
             value={formData.name}
             onChange={handleChange}
-            className={`w-full px-4 py-2 border rounded-md font-body focus:outline-none focus:ring-2 focus:ring-accent-gold ${
+            className={`w-full px-4 py-2 border rounded-md font-body text-text-dark bg-white focus:outline-none focus:ring-2 focus:ring-accent-gold ${
               errors.name ? 'border-red-500' : 'border-gray-300'
             }`}
           />
@@ -142,7 +142,7 @@ export function ContactForm() {
             name="email"
             value={formData.email}
             onChange={handleChange}
-            className={`w-full px-4 py-2 border rounded-md font-body focus:outline-none focus:ring-2 focus:ring-accent-gold ${
+            className={`w-full px-4 py-2 border rounded-md font-body text-text-dark bg-white focus:outline-none focus:ring-2 focus:ring-accent-gold ${
               errors.email ? 'border-red-500' : 'border-gray-300'
             }`}
           />
@@ -165,7 +165,7 @@ export function ContactForm() {
             name="service"
             value={formData.service}
             onChange={handleChange}
-            className="w-full px-4 py-2 border border-gray-300 rounded-md font-body focus:outline-none focus:ring-2 focus:ring-accent-gold"
+            className="w-full px-4 py-2 border border-gray-300 rounded-md font-body text-text-dark bg-white focus:outline-none focus:ring-2 focus:ring-accent-gold"
           >
             <option value="">Velg tjeneste</option>
             {servicesData.services.map((service) => (
@@ -189,7 +189,7 @@ export function ContactForm() {
             value={formData.message}
             onChange={handleChange}
             rows={6}
-            className={`w-full px-4 py-2 border rounded-md font-body focus:outline-none focus:ring-2 focus:ring-accent-gold ${
+            className={`w-full px-4 py-2 border rounded-md font-body text-text-dark bg-white focus:outline-none focus:ring-2 focus:ring-accent-gold ${
               errors.message ? 'border-red-500' : 'border-gray-300'
             }`}
           />
