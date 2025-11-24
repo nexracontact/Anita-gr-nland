@@ -1,4 +1,33 @@
 {
-  "testimonials": []
+  "testimonials": [
+    {
+      "id": "testimonial-1",
+      "name": "Trine Witzøe",
+      "service": "Nyfødtfotografi",
+      "text": "Vil anbefale nyfødtfotografering hos Anita Grønland på det sterkeste! En dyktig og profesjonell fotograf med et øye for detaljer. Hun tar seg god tid og er meget flink.",
+      "rating": 5
+    },
+    {
+      "id": "testimonial-2",
+      "name": "Linda Kristiansen",
+      "service": "Fotografering",
+      "text": "Gir super veiledning, hyggelige priser og meget flink fotograf. Anbefales å stikke innom.",
+      "rating": 5
+    },
+    {
+      "id": "testimonial-3",
+      "name": "Lill Vold",
+      "service": "Fotografering",
+      "text": "Superdyktig fotograf med mange kreative ideer! Anbefales!",
+      "rating": 5
+    },
+    {
+      "id": "testimonial-4",
+      "name": "Hilde Dyrli",
+      "service": "Fotografering",
+      "text": "Veldig hyggelig, kreativ og flink fotograf!",
+      "rating": 5
+    }
+  ]
 }
 
