@@ -1,0 +1,59 @@
+{
+  "services": [
+    {
+      "id": "bryllupsfotografi",
+      "title": "Bryllupsfotografi",
+      "description": "Fang opp alle de spesielle øyeblikkene på deres store dag. Fra forberedelsene om morgenen til festen om kvelden, dokumenterer jeg hele dagen med omsorg og profesjonalitet.",
+      "price": "Fra 15.000 kr",
+      "features": [
+        "Forberedelser og styling",
+        "Seremoni og vielse",
+        "Brudeparets fotosession",
+        "Fest og taler",
+        "Alle bilder i høy oppløsning",
+        "Online galleri"
+      ]
+    },
+    {
+      "id": "familiefotografi",
+      "title": "Familiefotografi",
+      "description": "Familiebilder som fanger kjærligheten, gleden og de naturlige øyeblikkene. Enten det er et formelt portrett eller en avslappet fotosession hjemme eller utendørs.",
+      "price": "Fra 3.500 kr",
+      "features": [
+        "1-2 timers fotosession",
+        "Utendørs eller innendørs",
+        "Alle bilder i høy oppløsning",
+        "Online galleri",
+        "Rettede bilder"
+      ]
+    },
+    {
+      "id": "portrettfotografi",
+      "title": "Portrettfotografi",
+      "description": "Profesjonelle portrettbilder for personlig bruk, LinkedIn-profil eller andre formål. Jeg skaper bilder som viser deg i ditt beste lys.",
+      "price": "Fra 2.500 kr",
+      "features": [
+        "1 times fotosession",
+        "Studio eller lokasjon",
+        "Rettede bilder",
+        "Online galleri",
+        "Råfiler tilgjengelig"
+      ]
+    },
+    {
+      "id": "bedriftsprofil",
+      "title": "Bedriftsprofil",
+      "description": "Profesjonelle bilder for bedriften din - teamfoto, produktfotografering, arbeidsmiljø og mer. Perfekt for nettside, markedsføring og sosiale medier.",
+      "price": "Fra 5.000 kr",
+      "features": [
+        "Teamfoto",
+        "Produktfotografering",
+        "Arbeidsmiljø-bilder",
+        "Alle bilder i høy oppløsning",
+        "Rettede bilder",
+        "Rettigheter for kommersiell bruk"
+      ]
+    }
+  ]
+}
+

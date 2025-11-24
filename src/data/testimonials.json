@@ -1,0 +1,40 @@
+{
+  "testimonials": [
+    {
+      "id": "testimonial-1",
+      "name": "Maria og Erik Hansen",
+      "service": "Bryllupsfotografi",
+      "text": "Anita fanget vårt bryllup på en måte som overgikk alle forventninger. Hun var diskret, profesjonell og skapte bilder vi vil elske for alltid. Hver gang vi ser på bildene blir vi fylt med glede. Anbefales på det varmeste!",
+      "rating": 5
+    },
+    {
+      "id": "testimonial-2",
+      "name": "Lise og Tom Andersen",
+      "service": "Familiefotografi",
+      "text": "Familiebildene våre er helt fantastiske! Anita fikk barna til å føle seg komfortable fra første sekund og fanget de naturlige øyeblikkene perfekt. Vi er så takknemlige for disse minnene. Absolutt best i bransjen!",
+      "rating": 5
+    },
+    {
+      "id": "testimonial-3",
+      "name": "Tech Solutions AS",
+      "service": "Bedriftsprofil",
+      "text": "Profesjonelle bilder som reflekterer vår bedrift perfekt. Anita forstod vårt visuelle behov umiddelbart og leverte bilder vi bruker i all vår markedsføring. Utmerket arbeid og service!",
+      "rating": 5
+    },
+    {
+      "id": "testimonial-4",
+      "name": "Kari og Per Nordli",
+      "service": "Bryllupsfotografi",
+      "text": "Vi er så takknemlige for Anitas arbeid på vårt bryllup. Hun fanget alle de spesielle øyeblikkene - både de store og de små. Bildene er våre mest verdifulle eiendeler. Tusen takk!",
+      "rating": 5
+    },
+    {
+      "id": "testimonial-5",
+      "name": "Sara og Magnus",
+      "service": "Portrettfotografi",
+      "text": "Anita skapte de vakreste portrettbildene av oss. Hun gjorde oss så avslappede og komfortable, og resultatet var utrolig. Vi anbefaler henne til alle som ønsker profesjonelle bilder.",
+      "rating": 5
+    }
+  ]
+}
+
