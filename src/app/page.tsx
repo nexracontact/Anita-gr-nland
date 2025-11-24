@@ -1,6 +1,7 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
 import { Hero } from '@/components/sections/Hero'
+import { ServicesPreview } from '@/components/sections/ServicesPreview'
 import { Intro } from '@/components/sections/Intro'
 import { ImageShowcase } from '@/components/sections/ImageShowcase'
 import { Button } from '@/components/ui/Button'
@@ -15,6 +16,7 @@ export default function HomePage() {
   return (
     <>
       <Hero />
+      <ServicesPreview />
       <Intro />
       <ImageShowcase />
       <section className="py-20 px-4 sm:px-6 lg:px-8 bg-gradient-to-b from-white to-gray-50">
