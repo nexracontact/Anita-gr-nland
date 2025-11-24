@@ -13,13 +13,8 @@ export function ImageShowcase() {
 
   // Get first image from each category for showcase
   const showcaseImages: PortfolioImage[] = portfolioData.categories
-    .flatMap((category) =>
-      category.images.slice(0, 2).map((image) => ({
-        ...image,
-        category: category.id,
-      }))
-    )
-    .slice(0, 5)
+    .flatMap((category) => category.images.slice(0, 2))
+    .slice(0, 5) as PortfolioImage[]
 
   const handleImageClick = (image: PortfolioImage) => {
     setSelectedImage(image)

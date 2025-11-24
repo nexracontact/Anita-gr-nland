@@ -9,36 +9,42 @@
           "id": "bryllup-1",
           "src": "https://images.unsplash.com/photo-1519741497674-611481863552?q=80&w=2070&auto=format&fit=crop",
           "alt": "Bryllupsbilde - brudeparet",
+          "category": "bryllup",
           "caption": "Brudeparet i solnedgang"
         },
         {
           "id": "bryllup-2",
           "src": "https://images.unsplash.com/photo-1465495976277-4387d4b0b4c6?q=80&w=2070&auto=format&fit=crop",
           "alt": "Bryllupsbilde - seremoni",
+          "category": "bryllup",
           "caption": "Seremoni i kirken"
         },
         {
           "id": "bryllup-3",
           "src": "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?q=80&w=2069&auto=format&fit=crop",
           "alt": "Bryllupsbilde - fest",
+          "category": "bryllup",
           "caption": "Fest og dans"
         },
         {
           "id": "bryllup-4",
           "src": "https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8?q=80&w=2070&auto=format&fit=crop",
           "alt": "Bryllupsbilde - detaljer",
+          "category": "bryllup",
           "caption": "Bryllupsdetaljer"
         },
         {
           "id": "bryllup-5",
           "src": "https://images.unsplash.com/photo-1519741497674-611481863552?q=80&w=2070&auto=format&fit=crop",
           "alt": "Bryllupsbilde - brudeparet utendørs",
+          "category": "bryllup",
           "caption": "Brudeparet i naturen"
         },
         {
           "id": "bryllup-6",
           "src": "https://images.unsplash.com/photo-1469371670807-013ccf25f16a?q=80&w=2070&auto=format&fit=crop",
           "alt": "Bryllupsbilde - toast",
+          "category": "bryllup",
           "caption": "Toast og taler"
         }
       ]
@@ -52,30 +58,35 @@
           "id": "familie-1",
           "src": "https://images.unsplash.com/photo-1511895426328-dc8714191300?q=80&w=2070&auto=format&fit=crop",
           "alt": "Familiebilde - utendørs",
+          "category": "familie",
           "caption": "Familie i naturen"
         },
         {
           "id": "familie-2",
           "src": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?q=80&w=2070&auto=format&fit=crop",
           "alt": "Familiebilde - hjemme",
+          "category": "familie",
           "caption": "Familie hjemme"
         },
         {
           "id": "familie-3",
           "src": "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?q=80&w=2086&auto=format&fit=crop",
           "alt": "Familiebilde - barn",
+          "category": "familie",
           "caption": "Barn i bevegelse"
         },
         {
           "id": "familie-4",
           "src": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?q=80&w=2071&auto=format&fit=crop",
           "alt": "Familiebilde - generasjoner",
+          "category": "familie",
           "caption": "Tre generasjoner"
         },
         {
           "id": "familie-5",
           "src": "https://images.unsplash.com/photo-1511895426328-dc8714191300?q=80&w=2070&auto=format&fit=crop",
           "alt": "Familiebilde - portrett",
+          "category": "familie",
           "caption": "Familieportrett"
         }
       ]
@@ -89,24 +100,28 @@
           "id": "business-1",
           "src": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=2070&auto=format&fit=crop",
           "alt": "Bedriftsportrett",
+          "category": "business",
           "caption": "Profesjonelt portrett"
         },
         {
           "id": "business-2",
           "src": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?q=80&w=2084&auto=format&fit=crop",
           "alt": "Bedriftsmiljø",
+          "category": "business",
           "caption": "Arbeidsmiljø"
         },
         {
           "id": "business-3",
           "src": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=2070&auto=format&fit=crop",
           "alt": "Teamfoto",
+          "category": "business",
           "caption": "Teamfoto"
         },
         {
           "id": "business-4",
           "src": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?q=80&w=2070&auto=format&fit=crop",
           "alt": "Produktfoto",
+          "category": "business",
           "caption": "Produktfotografering"
         }
       ]
